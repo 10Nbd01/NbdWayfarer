@@ -74,6 +74,47 @@ const localPlaylist = [
 		url: "public/assets/music/url/From the Depths(Subconscious).mp3",
 		duration: 300,
 	},
+	{
+		id: 2,
+		title: "大地の閾を探して -Looking for Edge of Ground-",
+		artist: "camellia, 初音ミク",
+		cover:
+			"public/assets/music/cover/大地の閾を探して -Looking for Edge of Ground- - かめりあ、初音ミク.jpg",
+		url: "public/assets/music/url/大地の閾を探して -Looking for Edge of Ground- - かめりあ、初音ミク.mp3",
+		duration: 300,
+	},
+	{
+		id: 3,
+		title: "Nacreous Snowmelt",
+		artist: "camellia",
+		cover: "public/assets/music/cover/Nacreous Snowmelt - かめりあ.jpg",
+		url: "public/assets/music/url/Nacreous Snowmelt - かめりあ.mp3",
+		duration: 300,
+	},
+	{
+		id: 4,
+		title: "S.A.T.E.L.L.I.T.E.",
+		artist: "camellia",
+		cover: "public/assets/music/cover/Heart of android.jpg",
+		url: "public/assets/music/url/かめりあ - S.A.T.E.L.L.I.T.E..mp3",
+		duration: 300,
+	},
+	{
+		id: 5,
+		title: "Tojita Sekai",
+		artist: "camellia",
+		cover: "public/assets/music/cover/Heart of android.jpg",
+		url: "public/assets/music/url/かめりあ - Tojita Sekai.mp3",
+		duration: 300,
+	},
+	{
+		id: 6,
+		title: "[ns]",
+		artist: "camellia",
+		cover: "public/assets/music/cover/Heart of android.jpg",
+		url: "public/assets/music/url/かめりあ - [ns].mp3",
+		duration: 300,
+	},
 ];
 
 async function fetchMetingPlaylist() {
