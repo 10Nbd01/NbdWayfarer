@@ -27,9 +27,9 @@ import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
-	site: "https://Study_Mizuki.github.io",
+	site: "https://10nbd01.github.io/",
 
-	base: "/10Nbd01/Study_Mizuki.github.io",
+	base: "/NbdWayfarer",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
