@@ -27,9 +27,8 @@ import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
-	site: "https://10nbd01.github.io/",
+	site: "harmonious-lokum-01ff0c.netlify.app",
 
-	base: "/NbdWayfarer",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
